@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-### Hello Geeks! 👋
+# Hello, Geeks! 👋
 
 My name is Nitika Agarwal, MSCS Graduate from Georgia Institue of Technology and 4 years of Software Developer experience. 
 
