@@ -22,3 +22,7 @@ She/Her
 
 ### 📫 How to reach me
 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/nitikagarw/)
+
+---
+
+<img align="left" alt="nitikagarw's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nitikagarw&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=buefy" />
